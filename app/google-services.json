@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938253595671",
+    "firebase_url": "https://calculoimc-96535.firebaseio.com",
+    "project_id": "calculoimc-96535",
+    "storage_bucket": "calculoimc-96535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938253595671:android:c70152df49059037",
+        "android_client_info": {
+          "package_name": "com.example.calculoimc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938253595671-bfg3cuji95q2aujjtk15hk8dpjb7sgnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calculoimc",
+            "certificate_hash": "5ecb649233bde3e6fac63c561619eae727d00c17"
+          }
+        },
+        {
+          "client_id": "938253595671-h63f5fdq08nprimspqq36hmettc0l1am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvu44J0_4idP3mo8nfWb7wa6zsK7xGdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938253595671-h63f5fdq08nprimspqq36hmettc0l1am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

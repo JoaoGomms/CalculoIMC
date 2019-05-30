@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calcule o seu IMC</string>
+    <string-array name="generos">
+        <item>Escolha seu gênero</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+
+    <string name="title_menu_calcular_imc">Calcular o IMC</string>
+    <string name="title_menu_consultar_imc">Consulte o IMC</string>
+    <string name="title_activity_menu_imc">MenuIMCActivity</string>
+</resources>
